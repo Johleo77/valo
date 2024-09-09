@@ -1,3 +1,5 @@
 fun main() {
-    // put your code here
+    val N = 3
+    val K = 14
+    println(K % N)
 }

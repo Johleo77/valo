@@ -3,7 +3,7 @@ fun main() {
     val b = "mer"
     val c = "summer"
 
-    println(if(a.length + b.length == c.length){true} else {false }
+    println(if(a + b == c){true} else {false }
     )
 
 }

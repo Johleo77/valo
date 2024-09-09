@@ -1,3 +1,6 @@
 fun main() {
-    // put your code here
+    var a = 8
+    var b = 7
+
+    println("$a,$b")
 }

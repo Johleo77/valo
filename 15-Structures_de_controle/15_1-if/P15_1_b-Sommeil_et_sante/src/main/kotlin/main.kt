@@ -1,3 +1,3 @@
-fun main() {
-    // write your code here
+ fun main() {
+
 }

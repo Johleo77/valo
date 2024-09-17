@@ -1,3 +1,8 @@
+fun isGreater(a : Int, b : Int , c : Int , d: Int){
+    println( a+b > c+d )
+    }
+
+
 // write your function here
 
 fun main() {

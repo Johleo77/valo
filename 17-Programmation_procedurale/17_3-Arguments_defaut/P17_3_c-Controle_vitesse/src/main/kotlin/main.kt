@@ -1,5 +1,8 @@
-fun checkSpeed(...) {
-    // write your code here
+fun checkSpeed(speed : Int , limit : Int = 60) {
+    if(speed > limit){
+        var exceed = speed - limit
+        println("Exceeds the limit by $exceed kilometers per hour")
+    }
 }
 
 fun main() {
